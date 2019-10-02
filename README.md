@@ -1,3 +1,13 @@
-# Fundamentos de Android
+# android-sua-primeira-app-mobile
 
-Projeto para o curso de fundamentos de Android parte 1
+Android parte 1: Crie a sua primeira app mobile
+
+1 - Criando o primeiro App
+
+2 - Aplicando layouts para Activities
+
+3 - Entendendo a base de construção de layouts
+
+4 - Trabalhando com arquivo fonte do layout
+
+5 - Finalizando o fluxo do App
